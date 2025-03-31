@@ -1,4 +1,4 @@
 package com.example.chatapplication;
 
-public class ChatAdapter {
+public class MessageDatabaseHelper {
 }
